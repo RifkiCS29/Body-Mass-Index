@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indeks Massa Tubuh</string>
+    <string name="body_mass_index">Indeks Massa Tubuh</string>
+    <string name="height">Tinggimu dalam Cm</string>
+    <string name="height_human">Tinggi</string>
+    <string name="weight">Beratmu dalam Kg</string>
+    <string name="weight_human">Berat</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="empty">Tidak Boleh Kosong</string>
+    <string name="under_weight">KURANG BERAT</string>
+    <string name="normal_weight">BERAT NORMAL</string>
+    <string name="over_weight">BERAT BERLEBIH</string>
+    <string name="obese">GEMUK</string>
+    <string name="extreme_obese">SANGAT GEMUK</string>
+    <string name="info_under_weight">IMT dibawah 18.5 : Kurang Berat</string>
+    <string name="info_normal_weight">IMT antara 18.5 hingga 22.90 : Berat Normal</string>
+    <string name="info_over_weight">IMT antara lebih dari 22.90 hingga 29.90 : Berat Berlebih</string>
+    <string name="info_obese">IMT antara lebih dari 29.90 hingga 34.90 : Gemuk</string>
+    <string name="info_extreme_obese">IMT lebih dari 34.90 : Sangat Gemuk</string>
+    <string name="not_human">Bukan Manusia</string>
+    <string name="info">Info</string>
+</resources>

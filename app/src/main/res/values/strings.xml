@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="body_mass_index">Body Mass Index</string>
+    <string name="height">Your Height in Cm</string>
+    <string name="height_human">Height</string>
+    <string name="weight">Your Weight in Kg</string>
+    <string name="weight_human">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your Result</string>
+    <string name="empty">This Field Cannot be Blank</string>
+    <string name="under_weight">UNDERWEIGHT</string>
+    <string name="normal_weight">NORMAL</string>
+    <string name="over_weight">OVERWEIGHT</string>
+    <string name="obese">OBESE</string>
+    <string name="extreme_obese">EXTREMELY OBESE</string>
+    <string name="info_under_weight">BMI Under 18.5 : UnderWeight</string>
+    <string name="info_normal_weight">BMI Between 18.5 to 22.90 : Normal</string>
+    <string name="info_over_weight">BMI Between more than 22.90 to 29.90 : OverWeight</string>
+    <string name="info_obese">BMI Between  more than 29.90 to 34.90 : Obese</string>
+    <string name="info_extreme_obese">BMI More Than 34.90 : Extremely Obese</string>
+    <string name="not_human">Not Human</string>
+    <string name="info">Info</string>
+</resources>
