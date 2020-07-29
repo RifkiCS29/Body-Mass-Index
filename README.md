@@ -5,10 +5,7 @@ Body Mass Index (BMI) is a person's weight in kilograms divided by the square of
 
 ## Screenshots
 
-<img src="https://github.com/RifkiCS29/Body-Mass-Index/blob/master/screenshots/Screenshot_20200729-231551_Body%20Mass%20Index.jpg"
-width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/Body-Mass-Index/blob/master/screenshots/Screenshot_20200729-231559_Body%20Mass%20Index.jpg"
-width="256">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/Body-Mass-Index/blob/master/screenshots/Tampilan%20Aplikasi.jpg">
 
 ### App Features
 1. Show the result of your Body Mass Index
